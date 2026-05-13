@@ -6,7 +6,7 @@ const steps = [
   { num: '02', icon: Phone, title: 'Beratung', text: 'Wir besprechen das Problem und nennen Ihnen einen fairen Preis.' },
   { num: '03', icon: Wrench, title: 'Reparatur', text: 'Schnelle Diagnose und professionelle Reparatur Ihres Geräts.' },
   { num: '04', icon: PackageCheck, title: 'Qualitätsprüfung', text: 'Jede Reparatur wird sorgfältig geprüft bevor wir sie übergeben.' },
-  { num: '05', icon: Star, title: 'Abholen', text: 'Ihr Gerät ist fertig — abholen oder wir informieren Sie per WhatsApp.' },
+  { num: '05', icon: Star, title: 'Abholen', text: 'Ihr Gerät ist fertig abholen oder wir informieren Sie per WhatsApp.' },
 ]
 
 export default function HowItWorks() {
